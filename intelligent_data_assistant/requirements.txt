@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scipy
+scikit-learn
+reportlab
+python-dotenv
+requests
+SpeechRecognition
