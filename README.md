@@ -65,14 +65,6 @@ Access the app via the displayed local URL (usually http://localhost:8501).
 - `requirements.txt` - Python dependencies.  
 - `README.md` - This documentation.
 
----
-
-## Future Work
-
-- Implement full multi-user collaboration with shared real-time workspaces.  
-- Support real-time data sources via API and streaming integrations.  
-- Extend AI capabilities for causal inference, time series forecasting, and Bayesian analysis.  
-- Enhance export options including interactive HTML reports and direct model deployment.
 
 ---
 
