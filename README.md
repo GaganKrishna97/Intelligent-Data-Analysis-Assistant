@@ -78,7 +78,7 @@ Access the app via the displayed local URL (usually http://localhost:8501).
 
 ## License
 
-Specify your open source license here (e.g., MIT, Apache 2.0).
+open source license here (MIT, Apache 2.0).
 
 ---
 
