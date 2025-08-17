@@ -68,9 +68,10 @@ Access the app via the displayed local URL (usually http://localhost:8501).
 
 ---
 
-## License
+## DEMO
 
-open source license here (MIT, Apache 2.0).
+https://www.loom.com/share/5d052649fee94b3abcee18ba4a4a732c?sid=fa4d7f10-8746-4938-b431-1fdb2936da53
+
 
 ---
 
